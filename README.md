@@ -35,4 +35,4 @@ In this project, I explored the All India Pincode Directory dataset, which offer
 
 As a beginner, if there are any mistakes or issues in my approach or execution, I apologize and would appreciate any feedback or guidance to improve.
 
-note : during task no 5 i faced issue regarding the dataset download so i contacted to the CODEVO team they halped but that dataset was not that much impressive so i had choosen the pincode dataset as it was musch effient for me to be worked. but in that dataset 4 rows was having NA values in that so i used pandas to soleve that issue so kindly also check that as change.py file ok thank you .
+note : during task no 5 i faced issue regarding the dataset download so I contacted to the CODEVO team they helped but that dataset was not that much impressive so I had choosen the pincode dataset as it was musch effient for me to be worked. but in that dataset 4 rows was having NA values in that so i used pandas to soleve that issue so kindly also check that as change.py file ok thank you .
